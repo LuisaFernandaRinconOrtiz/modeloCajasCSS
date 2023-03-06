@@ -9,6 +9,8 @@
 }
 .wrapper{
     background: blue;
+    display: flex;
+flex-direction: row-reverse;
     
 
 }
